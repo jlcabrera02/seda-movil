@@ -7,6 +7,9 @@
 
 # testing
 /coverage
+/android
+/cypress
+/dist
 
 # production
 /dist
